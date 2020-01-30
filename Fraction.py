@@ -36,7 +36,7 @@ class Fraction:
         return firstnum == secondnum
 
     def __mul__(self, other):
-        #pass
+        pass
 
         num = self.num * other.num
         den = self.den * other.den
